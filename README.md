@@ -1,7 +1,7 @@
 # สวัสดีครับ ผมนายฐนกร โพธิ์ปาน 💻
 
-* [💡 Resume]((https://drive.google.com/file/d/12gCcks-6i2Bw6h9bo5ooxfPFGOVpOr5W/view?usp=sharing))
-* [📨 Email]((mailto:thanakorn.phopan@gmail.com))
+* [💡 Resume](https://drive.google.com/file/d/12gCcks-6i2Bw6h9bo5ooxfPFGOVpOr5W/view?usp=sharing)
+* [📨 Email](mailto:thanakorn.phopan@gmail.com)
 
 ปัจจุบันเป็นนักศึกษาชั้นปีที่สาม ในคณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง [KMITL] ซึ่งมีความสนใจในด้าน **Network Infrastructure**, **System Administration** และ **IT Support** ซึ่งกำลังหาฝึกงานในด้าน Network & IT Support ครับ
 
@@ -26,7 +26,7 @@
 > ระบบสำหรับตรวจจับและติดตาม อุปกรณ์บนเครือข่าย พร้อมกับหน้าต่างสรุปผลแบบต่อเนื่อง
 * **Key Focus:** การติดตั้งและตั้งค่า SNMP, การแจ้งเตือนภัยคุกคาม, หน้าต่างสรุปผล
 * **Tools:** GNS3
-* [🔗 ดูข้อมูลโปรเจค]((https://drive.google.com/file/d/12gCcks-6i2Bw6h9bo5ooxfPFGOVpOr5W/view?usp=sharing))
+* [🔗 ดูข้อมูลโปรเจค](https://drive.google.com/file/d/12gCcks-6i2Bw6h9bo5ooxfPFGOVpOr5W/view?usp=sharing)
 
 ---
 
