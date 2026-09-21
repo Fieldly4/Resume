@@ -1,6 +1,6 @@
 # สวัสดีครับ ผมนายฐนกร โพธิ์ปาน 💻
 
-* [💡 Resume](https://drive.google.com/file/d/12gCcks-6i2Bw6h9bo5ooxfPFGOVpOr5W/view?usp=sharing)
+* [💡 Resume]() *Waiting*
 * [📨 Email](mailto:thanakorn.phopan@gmail.com)
 
 ปัจจุบันเป็นนักศึกษาชั้นปีที่สาม ในคณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง [KMITL] ซึ่งมีความสนใจในด้าน **Network Infrastructure**, **System Administration** และ **IT Support** ซึ่งกำลังหาฝึกงานในด้าน Network & IT Support ครับ
