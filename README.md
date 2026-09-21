@@ -1,7 +1,5 @@
 # สวัสดีครับ ผมนายฐนกร โพธิ์ปาน 💻
 
-* [💡 Resume]() *Waiting*
-* [📨 Email](mailto:thanakorn.phopan@gmail.com)
 
 ปัจจุบันเป็นนักศึกษาชั้นปีที่สาม ในคณะเทคโนโลยีสารสนเทศ สาขาเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง [KMITL] ซึ่งมีความสนใจในด้าน **Network Infrastructure**, **System Administration** และ **IT Support** ซึ่งกำลังหาฝึกงานในด้าน Network & IT Support ครับ
 
@@ -60,3 +58,4 @@
 * 📧 **Email:** thanakorn.phopan@gmail.com
 * 📱 **Phone:** +66 94 770 4135
 * 📍 **Location:** Rayong, Thailand
+* 📬 **Resume** [กดเพื่อดู]()
