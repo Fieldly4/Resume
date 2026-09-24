@@ -9,7 +9,7 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Networking** | CCNA Basic Knowledge, TCP/IP, VLAN, Routing & Switching, Subnetting, DNS/DHCP, Fortigate |
+| **Networking** | CCNA Basic Knowledge, TCP/IP, VLAN, Routing & Switching, Subnetting, DNS/DHCP |
 | **Operating Systems** | Windows 10/11, Linux (Ubuntu) |
 | **Monitoring & Tools** | Wireshark, Zabbix, Cisco Packet Tracer, GNS3, Github |
 | **Hardware & IT** | PC Assembly, Basic Troubleshooting |
@@ -41,6 +41,14 @@
 * **Key Focus:** เว็บแอปสำหรับจัดการสินค้าต่างๆ ภายในร้าน โดยต้องมีความสะดวกและใช้งานง่าย
 * **Tools:** HTML, CSS, EJS, NodeJS, ExpressJS, MySQL
 * [🔗 ดูข้อมูลโปรเจค](https://drive.google.com/file/d/19Qdnrl_pdYhbo-aphfv8k8lOOJ9j00m1/view?usp=sharing)
+
+---
+
+### 💻 4. การออกแบบโครงสร้างเครือข่ายในองค์กร
+> การจำลองการออกแบบโครงสร้างเครือข่ายในองค์กร
+* **Key Focus:** การออกแบบโครงสร้างเครือข่ายขนาดย่อม พร้อมกับจัดการให้อุปกรณ์ในเครือข่ายใช้งานได้
+* **Tools:** GNS3, Router, Switch, VMs
+* [🔗 ดูข้อมูลโปรเจค](https://drive.google.com/file/d/1Hujm_ttKzRjOKQE16rfexYvUd3U-YRBF/view?usp=sharing)
 
 ---
 
