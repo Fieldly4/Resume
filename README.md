@@ -66,4 +66,4 @@
 * 📧 **Email:** thanakorn.phopan@gmail.com
 * 📱 **Phone:** +66 94 770 4135
 * 📍 **Location:** Rayong, Thailand
-* 📬 **Resume** [กดเพื่อดู]()
+* 📬 **Google_Drive_Resume** [กดเพื่อดู](https://drive.google.com/drive/folders/1QhOUus0YMzF9W5--apIrTnZKbz29xH-F?usp=sharing)
